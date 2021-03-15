@@ -1,0 +1,2 @@
+Chess类继承Object类，拥有color属性和startingPosition变量
+各个棋子的类继承Chess类，拥有forwardMovement和sideMovement变量
